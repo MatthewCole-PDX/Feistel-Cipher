@@ -1,0 +1,14 @@
+﻿  PSU-CRYPT.cpp
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(123,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(145,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(154,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(157,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(169,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(172,12): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(175,15): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(176,12): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(417,10): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(419,10): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Project1\PSU-CRYPT.cpp(444): warning C4715: 'PSU_CRYPT::hex_char_to_int': not all control paths return a value
+  Project1.vcxproj -> C:\Users\matth\Documents\CS585 Cryptography\Project1\Project1\Debug\Project1.exe
